@@ -3,7 +3,7 @@
 I'm Karishma Sahoo, a final-year PhD scholar in **Bioinformatics and Computational Biology** at VIT, India. My research focuses on developing and applying computational methods to understand the epigenetic regulation of cancer, particularly through **DNA methylation** analysis.
 
 - 🔬 I’m currently working on:  
-  Integrative analysis of **DNA methylation, transcriptomics, scRNA-seq**, and clinical data to identify diagnostic and prognostic biomarkers in **colorectal cancer**.
+  Integrative analysis of multiomics data particularly **DNA methylation, transcriptomics, scRNA-seq**, and clinical data to identify diagnostic and prognostic biomarkers in **colorectal cancer**.
 
 - 🧠 My research interests include:  
   - Cancer Epigenomics  
