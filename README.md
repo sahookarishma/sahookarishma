@@ -31,7 +31,7 @@ I'm Karishma Sahoo, a final-year PhD scholar in **Bioinformatics and Computation
   Advanced **multi-omics integration**, **graph neural networks (GNNs)**, and **interpretable AI** for cancer prediction.
 
 - 📫 How to reach me:  
-  karishmasahoo.bio [at] gmail [dot] com  
+  sahookarishma994@gmail.com
   [LinkedIn](https://www.linkedin.com/in/karishma-sahoo-1127a116b/) | [Researchgate](https://www.researchgate.net/profile/Karishma-Sahoo-2)
 
 - ⚡ Fun fact:  
