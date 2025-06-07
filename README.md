@@ -28,7 +28,7 @@ I'm Karishma Sahoo, a final-year PhD scholar in **Bioinformatics and Computation
   Computational projects in **cancer biology**, **digital pathology**, **multi-omics**, and **precision medicine**.
 
 - 🌱 Currently learning:  
-  Advanced **multi-omics integration**, **graph neural networks (GNNs)**, and **interpretable AI** for cancer prediction.
+  Advanced **multi-omics integration**, **Deep learning**, **graph neural networks (GNNs)**, and **interpretable AI** for cancer prediction.
 
 - 📫 How to reach me:  
   sahookarishma994@gmail.com
